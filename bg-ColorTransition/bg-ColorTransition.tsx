@@ -160,3 +160,5 @@ addPropertyControls(SNTNL_backGroundColorTransition, {
 })
 
 export default SNTNL_backGroundColorTransition
+
+
